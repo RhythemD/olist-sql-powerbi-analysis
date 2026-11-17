@@ -4,7 +4,7 @@ I analysed the Olist Brazilian e-commerce dataset to understand how the business
 
 **Main finding:** orders that arrive late get an average review score of **2.57**, compared with **4.29** for orders that arrive on time.
 
-![Dashboard](dashboard.png)
+![Olist Power BI Dashboard](dashboard.png)
 
 ## Dataset
 
